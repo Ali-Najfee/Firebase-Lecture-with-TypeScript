@@ -6,12 +6,12 @@
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAdoX3TqfKt2dlFJkuPbeOF3hhhZszPHvc",
-    authDomain: "first-project-e79d2.firebaseapp.com",
-    projectId: "first-project-e79d2",
-    storageBucket: "first-project-e79d2.firebasestorage.app",
-    messagingSenderId: "883410277959",
-    appId: "1:883410277959:web:5503c1400ccba2a54b0362"
+  apiKey: "AIzaSyBwMeMX5SBt3LJSOMpVP8TPY8VUNaTTlvk",
+  authDomain: "first-project-smits.firebaseapp.com",
+  projectId: "first-project-smits",
+  storageBucket: "first-project-smits.firebasestorage.app",
+  messagingSenderId: "300490841752",
+  appId: "1:300490841752:web:194e1ec3261942e9047aed"
   };
 
 
