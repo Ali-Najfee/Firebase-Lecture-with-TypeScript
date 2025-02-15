@@ -23,7 +23,7 @@ const firebaseConfig = {
   projectId: "first-project-smits",
   storageBucket: "first-project-smits.firebasestorage.app",
   messagingSenderId: "300490841752",
-  appId: "1:300490841752:web:194e1ec3261942e9047aed",
+  appId: "1:300490841752:web:194e1ec3261942e9047aed"
 };
 
 const app = initializeApp(firebaseConfig);
